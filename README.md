@@ -12,11 +12,12 @@ The main class "App" has the "menu" method than allows to chose wich excercise y
 	* "App" Class: This is the main class wich contains axiliar methods.
 	* Method main: Allows the user to choose and option from a menu.
 	* Method "paseExecution".
-	* ArrayLists:
-	* Scanner:
+	* ArrayLists: get(), add(), set(), size().
+	* Scanner: charAt(), length(), replaceAll(), toLowerCase(), matches(), equals().
 2. Code Control structures;
 	* Switch-Case.
 	* For loop.
 3. Exeption management: 
-	* Try-Catch: used in the method pauseExecution to manage exeptions "InterruptedException" while the execution of Thread.sleep. 
+	* Try-Catch: used in the method pauseExecution to manage exeptions "InterruptedException" while the execution of Thread.sleep.
+4. threads and concurrency: pause the thread till a specified number of miliseconds.
 
